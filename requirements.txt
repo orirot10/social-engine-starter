@@ -1,0 +1,7 @@
+crewai
+openai>=1.0.0
+python-dotenv
+pydantic
+requests
+pandas
+google-api-python-client
