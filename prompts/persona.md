@@ -1,0 +1,1 @@
+Create a monetizable persona for {niche} targeting {audience}. Return: {name, bio(80w), tone, visual_style, color_palette[], hook_archetypes[], post_formats[], weekly_calendar[]}.

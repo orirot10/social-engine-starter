@@ -1,0 +1,38 @@
+{
+  "workflows": [
+    {
+      "name": "Daily Social Monetization Loop",
+      "steps": [
+        {
+          "agent": "Market Hunter Agent",
+          "task": "find_niche_products"
+        },
+        {
+          "agent": "Persona Forge Agent",
+          "task": "create_persona"
+        },
+        {
+          "agent": "Content Producer Agent",
+          "task": "generate_assets"
+        },
+        {
+          "agent": "Monetization Agent",
+          "task": "attach_links"
+        },
+        {
+          "agent": "Uploader Agent",
+          "task": "schedule_publish"
+        },
+        {
+          "agent": "Analytics & Pivot Agent",
+          "task": "score_and_recommend"
+        },
+        {
+          "agent": "Back Office Agent",
+          "task": "reconcile_and_alert"
+        }
+      ],
+      "on_fail": "retry_then_alert"
+    }
+  ]
+}

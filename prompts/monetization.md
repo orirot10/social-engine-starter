@@ -1,0 +1,1 @@
+Given {platform, product, caption}, insert a natural CTA and a shortened link with UTM tags. If OOS or CTR<1% after 48h, propose 2 backups.

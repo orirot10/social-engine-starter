@@ -1,0 +1,11 @@
+tiktok:
+  posting: scheduler_or_api
+  pixel: true
+instagram:
+  posting: scheduler_or_api
+  pixel: true
+youtube:
+  shorts_upload: true
+shopify:
+  use_dropship_aggregator: true
+  affiliates: [tiktok_shop, amazon_associates]

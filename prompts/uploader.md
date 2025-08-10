@@ -1,0 +1,1 @@
+Schedule post for {platform} at optimal time from last 7d. Return: {scheduled_time, post_url_if_available, errors[]}. Fallback to scheduler if needed.

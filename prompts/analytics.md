@@ -1,0 +1,1 @@
+Compute CTR, ER, CPC, CPA, ROAS. Rules: CTR<1% -> rewrite; ROAS>1.5 x2d -> +25% spend; 3 fails -> kill variant and suggest new angle. Output actions[].
